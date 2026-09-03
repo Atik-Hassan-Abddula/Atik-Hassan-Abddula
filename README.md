@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and React.js**
 
-- 👯 I’m looking to collaborate on **👯 I’m looking Beginner-friendly Web Development and React.js Projects**
+- 👯 I’m looking to collaborate on **Beginner-friendly Web Development and React.js Projects**
 
 - 🤝 I’m looking for help with **JavaScript and React.js**
 
