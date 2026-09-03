@@ -1,6 +1,8 @@
-
-<h1 align="center">Hi 👋, I'm Atik Hassan</h1>
+<h1 align="center">Hi 👋, I'm Atik Hassan </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+am+a+Web+Developer+%F0%9F%92%BB;I+love+building+Web+Projects+%F0%9F%9A%80;I+am+learning+React.js+%E2%9A%9B%EF%B8%8F" alt="Typing Animation" /> </p>
+
+- 🔭 I’m currently working on **learning and building web development projects**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and React.js**
 
