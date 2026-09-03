@@ -12,14 +12,9 @@ I’m a frontend developer who loves building **modern, responsive, interactive,
 - 🌱 I’m currently learning **React, Next.js & Advanced Frontend Development**
 - 👯 I’m looking to collaborate on **Open Source & Creative Web Projects**
 - 🤝 I’m looking for help with **Advanced React & Frontend Architecture**
-- 💬 Ask me about **React, Vue.js, JavaScript & GSAP**
-- 📫 How to reach me: **example@gmail.com**
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
-- 📝 I regularly write articles on **[My Blog](#)**
-- 📄 Know about my experiences **[My Resume](#)**
+- 💬 Ask me about **React, Vue.js, JavaScript**
+- 📫 How to reach me: **atik508030@gmail.com**
 - ⚡ Fun fact: **I think I am funny 😄**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -29,12 +24,7 @@ I’m a frontend developer who loves building **modern, responsive, interactive,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Animation
-
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### Tools
 
@@ -46,7 +36,7 @@ I’m a frontend developer who loves building **modern, responsive, interactive,
 
 ## 🌐 Connect With Me
 
-📫 **Email:** example@gmail.com
+📫 **Email:**atik508030@gmail.com
 
 👨‍💻 **Portfolio:** [Visit My Portfolio](#)
 
