@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Atik Hassan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Hi, I'm currently learning and building web development projects**
-
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and React.js**
 
 - 👯 I’m looking to collaborate on **👯 I’m looking Beginner-friendly Web Development and React.js Projects**
