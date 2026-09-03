@@ -1,65 +1,32 @@
-Hi 👋, I'm Atik Hassan
-🌱 Junior Web Developer from Bangladesh 🇧🇩
+back to edit
 
-I'm a junior web developer who is currently learning and improving my skills in HTML, CSS, JavaScript, and React.js.
+copy-markdown
 
-I love building websites, practicing new concepts, and learning something new every day. 🚀
+download markdown
 
-👨‍💻 About Me
-🌱 Currently learning HTML, CSS, JavaScript & React.js
-💻 Building small projects to improve my skills
-📚 Learning and exploring modern web development
-🎯 Working towards becoming a professional web developer
-🤝 Open to learning and collaboration
-💬 Ask me about HTML, CSS, JavaScript & React.js
-⚡ Fun fact: I love building things for the web!
-🛠️ Skills
-Frontend
+download backup
 
+preview
+<h1 align="center">Hi 👋, I'm Don’t open my gmail</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+- 🔭 I’m currently working on **Hi, I'm currently learning and building web development projects**
 
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and React.js**
 
+- 👯 I’m looking to collaborate on **👯 I’m looking Beginner-friendly Web Development and React.js Projects**
 
+- 🤝 I’m looking for help with **JavaScript and React.js**
 
-Tools
+- 💬 Ask me about **HTML, CSS, JavaScript and React.js**
 
+- 📫 How to reach me **atik508030@gmail.com**
 
+- ⚡ Fun fact **I love learning new things and turning ideas into websites! 😄**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-📚 Currently Learning
-HTML5
-CSS3
-JavaScript
-React.js
-Responsive Web Design
-Git & GitHub
-💻 My Projects
-
-I'm currently building projects to practice my skills and improve my understanding of web development.
-
-🌐 HTML & CSS Projects
-⚡ JavaScript Projects
-⚛️ React.js Projects
-📱 Responsive Web Design Projects
-
-More projects coming soon! 🚀
-
-🎯 My Goals
-Improve my JavaScript skills
-Become better at React.js
-Build more real-world projects
-Improve my problem-solving skills
-Learn modern frontend technologies
-Become a professional Web Developer
-🌐 Connect With Me
-<p align="left"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://wa.me/YOUR_PHONE_NUMBER"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-🚀 My Learning Journey
-
-I'm continuously learning, building, and improving.
-
-Learn → Build → Practice → Improve → Repeat 🔄
-
-<h3 align="center">Thanks for visiting my profile! ❤️</h3> <p align="center"> ⭐ Feel free to explore my repositories! </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
