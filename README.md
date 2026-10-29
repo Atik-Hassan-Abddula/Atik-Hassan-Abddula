@@ -1,14 +1,14 @@
- <!-- ===================== NEON CYBER HERO ===================== -->
+<!-- ===================== NEON CYBER HERO ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0c4a6e,70:0891b2,100:22d3ee&text=MORIAM&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Web%20Instructor%20%7C%20Content%20Researcher&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Neon Cyber Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0c4a6e,70:0891b2,100:22d3ee&text=ATIK%20HASAN&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full%20Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Atik Hasan Neon Cyber Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Senior+Web+Instructor;Full+Stack+Web+Developer;Content+Researcher;Building+Scalable+Web+Applications" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Experiences;Learning+Something+New+Every+Day" alt="Typing Animation" />
 
 <br/>
 
-<img src="./atik.png" width="180" alt="Profile Photo" />
+<img src="./atik.png" width="180" alt="Atik Hasan Profile Photo" />
 
 <br/><br/>
 
@@ -17,59 +17,64 @@
 <br/><br/>
 
 <a href="https://github.com/Atik-Hassan-Abddula">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/atik-hassan-687022440/">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
 </a>
 
 </div>
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
 ## 👨‍💻 About Me
 
 ```javascript
-const moriam = {
+const atik = {
+  name: "Atik Hasan",
   location: "📍 Dhaka, Bangladesh",
-  role: "Senior Web Instructor & Content Researcher",
-  company: "Programming Hero",
-  education: "BSc in CSE - Daffodil International University",
-  experience: "2 years in tech education",
-
-  specialization: [
-    "Full Stack Development",
-    "Web Development"
-  ],
+  role: "Frontend Developer",
+  goal: "Full Stack Developer",
 
   currentlyLearning: [
-    "PostgreSQL",
-    "Data Structures & Algorithms"
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js"
   ],
 
-  hobbies: [
+  interests: [
+    "Web Development",
     "Building Projects",
-    "Exploring New Things",
-    "Learning and Adapting",
-    "Reading Books"
-  ]
+    "Responsive UI",
+    "Problem Solving"
+  ],
+
+  mindset: "Learn, Build, Improve, Repeat"
 };
 
 const mission = () => {
-  return "Building scalable, user-focused web applications " +
-         "with clean, maintainable code.";
+  return "Building modern, user-focused web applications " +
+         "with clean and maintainable code.";
 };
 ```
 
+- 💻 I enjoy building modern and responsive web applications.
+- 🌱 I’m continuously improving my skills in React, Next.js, and TypeScript.
+- 🚀 My goal is to become a professional Full Stack Developer.
+- 🧩 I enjoy solving problems and learning new technologies.
+- ⚡ I believe in consistent learning and practical projects.
+
 ### 🎯 My Mission
 
-Building scalable, user-focused web applications with clean, maintainable code.
-
-- 📍 Based in Dhaka, Bangladesh.
-- 👩‍💻 Working as a Senior Web Instructor and Content Researcher.
-- 🏢 Associated with Programming Hero.
-- 🎓 BSc in Computer Science and Engineering from Daffodil International University.
-- 🌱 Currently learning PostgreSQL and Data Structures & Algorithms.
-- 🚀 Passionate about web development, project building, and continuous learning.
+Building modern, user-focused web applications with clean, maintainable code.
 
 ---
+
+<!-- ===================== TECH ARSENAL ===================== -->
 
 ## 🛠️ Tech Arsenal
 
@@ -83,13 +88,13 @@ Building scalable, user-focused web applications with clean, maintainable code.
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Backend Technologies" />
 
 <br/><br/>
 
 ### 🎨 Styling & UI
 
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Styling Technologies" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Styling and UI Technologies" />
 
 <br/><br/>
 
@@ -101,39 +106,43 @@ Building scalable, user-focused web applications with clean, maintainable code.
 
 ---
 
+<!-- ===================== WHAT I DO ===================== -->
+
 ## 🚀 What I Do
 
 <div align="center">
 
 | Area | Focus |
-|:--|:--|
+|:---|:---|
 | 💻 Web Development | Building modern, responsive web applications |
-| 📚 Tech Education | Teaching and explaining web development |
-| 🔍 Content Research | Exploring and researching technical topics |
-| 🧩 Problem Solving | Learning DSA and improving coding skills |
-| 🏗️ Application Design | Writing clean, maintainable code |
+| 🎨 Frontend Development | Creating clean and user-friendly interfaces |
+| ⚙️ Full Stack Learning | Exploring frontend and backend technologies |
+| 🧩 Problem Solving | Improving logical thinking and coding skills |
+| 📚 Continuous Learning | Practicing new tools and technologies |
 
 </div>
 
 ---
+
+<!-- ===================== CONNECT WITH ME ===================== -->
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Atik-Hassan-Abddula">
-<img src="https://img.shields.io/badge/GitHub-Profile-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub Profile" />
 </a>
 
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/atik-hassan-687022440/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
 </div>
 
 ---
+
+<!-- ===================== GITHUB STATISTICS ===================== -->
 
 ## 📊 GitHub Control Room
 
@@ -153,19 +162,33 @@ Building scalable, user-focused web applications with clean, maintainable code.
 
 ---
 
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
 ## 🐍 Contribution Matrix
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atik-Hassan-Abddula/Atik-Hassan-Abddula/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atik-Hassan-Abddula/Atik-Hassan-Abddula/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Atik-Hassan-Abddula/Atik-Hassan-Abddula/output/github-contribution-grid-snake.svg" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Atik-Hassan-Abddula/Atik-Hassan-Abddula/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Atik-Hassan-Abddula/Atik-Hassan-Abddula/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Atik Hasan GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Atik-Hassan-Abddula/Atik-Hassan-Abddula/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
 </picture>
 
 </div>
 
 ---
+
+<!-- ===================== DEVELOPER QUOTE ===================== -->
 
 ## 💡 Developer Mindset
 
@@ -181,12 +204,14 @@ Building scalable, user-focused web applications with clean, maintainable code.
 
 ---
 
+<!-- ===================== NEON CYBER FOOTER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22d3ee,40:0891b2,75:0c4a6e,100:020617&section=footer&animation=fadeIn" width="100%" alt="Neon Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22d3ee,40:0891b2,75:0c4a6e,100:020617&section=footer&animation=fadeIn" width="100%" alt="Atik Hasan Neon Footer" />
 
-**Designed with 💙 and code**
+**Designed with 💙 by Atik Hasan**
 
-*Building scalable applications, sharing knowledge, and learning every day.*
+*Building the future, one line of code at a time.*
 
 </div>
