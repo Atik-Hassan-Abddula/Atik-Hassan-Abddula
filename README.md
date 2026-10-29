@@ -5,9 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0c4a6e,70:0891b2,100:22d3ee&text=ATIK%20HASAN&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full%20Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Atik Hasan Neon Cyber Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Experiences;Learning+Something+New+Every+Day" alt="Typing Animation" />
-
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Atik-Hassan-Abddula&label=PROFILE%20VISITORS&color=0891b2&style=for-the-badge" alt="Profile Visitors" />
 
