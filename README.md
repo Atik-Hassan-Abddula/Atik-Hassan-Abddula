@@ -6,9 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Experiences;Learning+Something+New+Every+Day" alt="Typing Animation" />
 
-<br/>
-
-<img src="./atik.png" width="180" alt="Atik Hasan Profile Photo" />
 
 <br/><br/>
 
