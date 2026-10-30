@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+```html
 <a href="https://github.com/Atik-Hassan-Abddula">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
 </a>
@@ -23,6 +24,7 @@
 <a href="https://portfolio-ten-black-86.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
 </a>
+```
 
 
 </div>
@@ -36,14 +38,7 @@
 const profile = {
   name: "Atik Hasan",
   location: "Dhaka, Bangladesh 🇧🇩",
-  title: "Full Stack Web Developer",
-
-  summary: `Passionate Full Stack Web Developer focused on
-building modern, responsive, and user-friendly
-web applications.<br />
-Skilled in React, Next.js, JavaScript, and Node.js.<br />
-Interested in backend development, problem-solving,
-and continuous learning.`,
+  title: "Backend & Full-Stack Developer | Problem Solver | One Man Army",
 
   skills: [
     "HTML",
