@@ -1,9 +1,12 @@
+# ⚡ ATIK HASAN — FULL STACK WEB DEVELOPER
 
 <!-- ===================== NEON CYBER HERO ===================== -->
 
 <div align="center">
 
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:0c4a6e,55:0891b2,80:06b6d4,100:22d3ee&text=ATIK%20HASAN&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=19&descColor=ffffff&descAlignY=57&animation=fadeIn" width="100%" alt="Atik Hasan Full Stack Developer Banner" />
+</a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=100&lines=Hi%2C+I'm+Atik+Hasan+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Frontend+%7C+Backend+%7C+Database;React+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Real+Projects+%E2%9A%A1;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Full Stack Web Developer Typing Animation" />
 
@@ -13,16 +16,16 @@
 
 <br/><br/>
 
-<a href="https://github.com/Atik-Hassan-Abddula" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/atik-hassan-687022440/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
 </a>
 
 <a href="https://portfolio-ten-black-86.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
 </a>
 
 </div>
@@ -37,7 +40,7 @@
 const profile = {
   name: "Atik Hasan",
   location: "Dhaka, Bangladesh 🇧🇩",
-  title: "Backend & Full-Stack Developer | Problem Solver | One Man Army",
+  title: "Backend & Full-Stack Developer | Problem Solver",
 
   skills: [
     "HTML",
@@ -96,7 +99,7 @@ const profile = {
 
 ### 🗄️ Database Technologies
 
-<img src="https://skillicons.dev/icons?i=mongodb," alt="Database Technologies" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Database Technologies" />
 
 <br/><br/>
 
@@ -212,13 +215,19 @@ CRUD Operations
 
 <div align="center">
 
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
 <img src="https://github-stats-extended.vercel.app/api?username=Atik-Hassan-Abddula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" width="48%" alt="GitHub Statistics" />
+</a>
 
+<a href="https://github.com/Atik-Hassan-Abddula?tab=repositories" target="_blank" rel="noopener noreferrer">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atik-Hassan-Abddula&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" width="48%" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
 <img src="https://streak-stats.demolab.com?user=Atik-Hassan-Abddula&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee" width="65%" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -230,6 +239,7 @@ CRUD Operations
 
 <div align="center">
 
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -245,6 +255,7 @@ CRUD Operations
     width="100%"
   />
 </picture>
+</a>
 
 </div>
 
@@ -256,7 +267,9 @@ CRUD Operations
 
 <div align="center">
 
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
+</a>
 
 <br/><br/>
 
@@ -283,4 +296,3 @@ CRUD Operations
 *Building the future, one line of code at a time.*
 
 </div>
-
