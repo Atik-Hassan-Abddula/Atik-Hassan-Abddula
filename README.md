@@ -34,12 +34,21 @@ const profile = {
   title: "Full Stack Web Developer",
 
   summary:
-    "Passionate Full Stack Web Developer focused on building modern, responsive, and user-friendly web applications. Skilled in React, Next.js, JavaScript, and Node.js, with a strong interest in backend development, problem-solving, and continuous learning.",
+    "Passionate Full Stack Web Developer focused on building modern, responsive, and user-friendly web applications. Skilled in React, Next.js, JavaScript, and Node.js. Interested in backend development, problem-solving, and continuous learning.",
 
   skills: [
-    "HTML", "CSS", "JavaScript", "TypeScript",
-    "React", "Next.js", "Node.js", "Express.js",
-    "Tailwind CSS", "MongoDB", "Git", "GitHub"
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "Tailwind CSS",
+    "MongoDB",
+    "Git",
+    "GitHub"
   ],
 
   hardWorker: true,
@@ -49,6 +58,9 @@ const profile = {
 
   mindset: "Learn. Build. Improve. Repeat."
 };
+
+console.log(profile);
+```
 ```
 
 - 💻 I build responsive and interactive web experiences.
