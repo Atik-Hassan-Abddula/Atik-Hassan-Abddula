@@ -27,86 +27,28 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
-
 ```javascript
 const profile = {
   name: "Atik Hasan",
   location: "Dhaka, Bangladesh 🇧🇩",
+  title: "Full Stack Web Developer",
 
-  title:
-    "Full Stack Web Developer | Problem Solver | Lifelong Learner",
+  summary:
+    "Passionate Full Stack Web Developer focused on building modern, responsive, and user-friendly web applications. Skilled in React, Next.js, JavaScript, and Node.js, with a strong interest in backend development, problem-solving, and continuous learning.",
 
   skills: [
-    // Frontend
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Tailwind CSS",
-    "DaisyUI",
-    "shadcn/ui",
-
-    // Backend
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "Better Auth",
-
-    // Database
-    "MongoDB",
-
-    // Tools
-    "Git",
-    "GitHub",
-    "VS Code",
-    "npm"
+    "HTML", "CSS", "JavaScript", "TypeScript",
+    "React", "Next.js", "Node.js", "Express.js",
+    "Tailwind CSS", "MongoDB", "Git", "GitHub"
   ],
 
   hardWorker: true,
   quickLearner: true,
   problemSolver: true,
   teamPlayer: true,
-  passionateDeveloper: true,
 
-  currentlyLearning: [
-    "Advanced Next.js",
-    "Backend Development",
-    "Database Design",
-    "Authentication",
-    "Full Stack Development"
-  ],
-
-  interests: [
-    "Building Modern Web Applications",
-    "Frontend Development",
-    "Backend Development",
-    "API Integration",
-    "Clean Code",
-    "Problem Solving"
-  ],
-
-  mindset: "Learn. Build. Debug. Improve. Repeat.",
-
-  hireable: function () {
-    return (
-      this.hardWorker &&
-      this.quickLearner &&
-      this.problemSolver &&
-      this.teamPlayer &&
-      this.passionateDeveloper &&
-      this.skills.length >= 5
-    );
-  }
+  mindset: "Learn. Build. Improve. Repeat."
 };
-
-console.log("Developer Profile:", profile);
-
-console.log(
-  "Available for opportunities:",
-  profile.hireable()
-);
 ```
 
 - 💻 I build responsive and interactive web experiences.
