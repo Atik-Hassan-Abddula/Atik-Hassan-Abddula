@@ -142,7 +142,7 @@ console.log(
 
 ### 🗄️ Database Technologies
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Database Technologies" />
+<img src="https://skillicons.dev/icons?i=mongodb,"/>
 
 <br/><br/>
 
