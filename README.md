@@ -33,12 +33,16 @@ const profile = {
   location: "Dhaka, Bangladesh 🇧🇩",
   title: "Full Stack Web Developer",
 
-  summary:
-    "Passionate Full Stack Web Developer focused on building modern, responsive, and user-friendly web applications. Skilled in React, Next.js, JavaScript, and Node.js. Interested in backend development, problem-solving, and continuous learning.",
+  summary: `Passionate Full Stack Web Developer focused on
+building modern, responsive, and user-friendly
+web applications.<br />
+Skilled in React, Next.js, JavaScript, and Node.js.<br />
+Interested in backend development, problem-solving,
+and continuous learning.`,
 
   skills: [
-    "HTML5",
-    "CSS3",
+    "HTML",
+    "CSS",
     "JavaScript",
     "TypeScript",
     "React",
@@ -58,9 +62,6 @@ const profile = {
 
   mindset: "Learn. Build. Improve. Repeat."
 };
-
-console.log(profile);
-```
 ```
 
 - 💻 I build responsive and interactive web experiences.
