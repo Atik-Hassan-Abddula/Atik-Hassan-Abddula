@@ -140,8 +140,6 @@ Authentication
 <td align="center" width="33%">
 <h3>🗄️ Database</h3>
 MongoDB<br/>
-PostgreSQL<br/>
-Data Modeling<br/>
 CRUD Operations
 </td>
 </tr>
@@ -211,15 +209,13 @@ CRUD Operations
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Atik-Hassan-Abddula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" width="100%" alt="GitHub Statistics" />
+<img src="https://github-stats-extended.vercel.app/api?username=Atik-Hassan-Abddula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" width="48%" alt="GitHub Statistics" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atik-Hassan-Abddula&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atik-Hassan-Abddula&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" width="100%" alt="Most Used Programming Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Atik-Hassan-Abddula&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee" width="100%" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=Atik-Hassan-Abddula&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee" width="65%" alt="GitHub Streak" />
 
 </div>
 
