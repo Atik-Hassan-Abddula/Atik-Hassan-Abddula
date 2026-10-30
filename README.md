@@ -13,12 +13,17 @@
 <br/><br/>
 
 <a href="https://github.com/Atik-Hassan-Abddula">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/atik-hassan-687022440/">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
 </a>
+
+<a href="https://portfolio-ten-black-86.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
+</a>
+
 
 </div>
 
