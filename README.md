@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
 </a>
 
