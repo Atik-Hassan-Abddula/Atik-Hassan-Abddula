@@ -1,3 +1,4 @@
+```html
 <!-- ===================== NEON CYBER HERO ===================== -->
 
 <div align="center">
@@ -12,20 +13,17 @@
 
 <br/><br/>
 
-
-<a href="https://github.com/Atik-Hassan-Abddula">
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
 </a>
 
-<a href="https://www.linkedin.com/in/atik-hassan-687022440/">
+<a href="https://www.linkedin.com/in/atik-hassan-687022440/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
 </a>
 
-<a href="https://portfolio-ten-black-86.vercel.app/">
+<a href="https://portfolio-ten-black-86.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
 </a>
-
-
 
 </div>
 
@@ -34,6 +32,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
+
 ```javascript
 const profile = {
   name: "Atik Hasan",
@@ -97,7 +96,7 @@ const profile = {
 
 ### 🗄️ Database Technologies
 
-<img src="https://skillicons.dev/icons?i=mongodb,"/>
+<img src="https://skillicons.dev/icons?i=mongodb," alt="Database Technologies" />
 
 <br/><br/>
 
@@ -191,12 +190,16 @@ CRUD Operations
 
 <div align="center">
 
-<a href="https://github.com/Atik-Hassan-Abddula">
+<a href="https://github.com/Atik-Hassan-Abddula" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub Profile" />
 </a>
 
-<a href="https://www.linkedin.com/in/atik-hassan-687022440/">
+<a href="https://www.linkedin.com/in/atik-hassan-687022440/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+
+<a href="https://portfolio-ten-black-86.vercel.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio Website" />
 </a>
 
 </div>
@@ -280,3 +283,4 @@ CRUD Operations
 *Building the future, one line of code at a time.*
 
 </div>
+```
