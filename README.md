@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
 </a>
 
-<a href="https://portfolio-ten-black-86.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://atikhasan-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
 </a>
 
